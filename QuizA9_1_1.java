@@ -10,7 +10,6 @@ public class QuizA9_1_1 {
     // Ist eine funktionale Schnittstelle
 
     interface MoreDistance extends Distance{
-        double distance ( double a, double b);
     }
     // durch das Extends hat diese Funktionelle Schnittstelle zwei Methoden was unzulässig ist.
 
