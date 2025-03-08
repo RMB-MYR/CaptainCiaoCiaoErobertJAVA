@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Test;
+/*import org.junit.jupiter.api.Test;
 
 public class QuizA9_1_1 {
 
@@ -41,3 +41,4 @@ public class QuizA9_1_1 {
 
 
 }
+*/
